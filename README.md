@@ -1,2 +1,0 @@
-# Sajal
-Programmer, Python developer 
